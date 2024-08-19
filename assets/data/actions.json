@@ -1,0 +1,12 @@
+{
+	"rules": [
+		{
+			"pathPattern": "/blinks/transfer-sol",
+			"apiPath": "/blinks/transfer-sol"
+		},
+		{
+			"pathPattern": "/blinks/memo",
+			"apiPath": "/blinks/memo"
+		}
+	]
+}

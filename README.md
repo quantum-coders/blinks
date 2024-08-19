@@ -1,2 +1,2 @@
-# blinks
+# Blinks Boilerplate
 Blinks api boilerplate

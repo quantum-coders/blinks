@@ -1,0 +1,17 @@
+{
+	"name": "blinks",
+	"version": "1.0.0",
+	"description": "Blinks boilerplate",
+	"main": "app.js",
+	"type": "module",
+	"scripts": {
+		"nodemon": "nodemon app.js"
+	},
+	"repository": "https://github.com/quantum-coders/blinks.git",
+	"author": "Rodrigo Tejero <rodrigo.tejero@chimp.mx>",
+	"license": "MIT",
+	"dependencies": {
+		"@thewebchimp/primate": "^1.3.8-entities",
+		"express": "^4.19.2"
+	}
+}
